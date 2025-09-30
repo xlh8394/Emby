@@ -174,5 +174,5 @@ payload:
   - DOMAIN,direct.nebula-emby.com
 
 # > aca
-- DOMAIN,emby.aca.best
-- DOMAIN,porn.aca.best
+  - DOMAIN,emby.aca.best
+  - DOMAIN,porn.aca.best
