@@ -1,11 +1,11 @@
 # NAME: Emby
-# UPDATED: 2026-09-6
-# DOMAIN: 13
-# DOMAIN-KEYWORD: 3
-# DOMAIN-SUFFIX: 170
+# UPDATED: 2026-09-18
+# DOMAIN: 15
+# DOMAIN-KEYWORD: 2
+# DOMAIN-SUFFIX: 180
 # PROCESS-NAME: 1
 # IP-CIDR: 9
-# TOTAL:196
+# TOTAL: 207
 payload:
   # Existing entries from the second configuration
   - DOMAIN,emby.enjoyit.eu.org
